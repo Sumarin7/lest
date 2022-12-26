@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lora';
+}
+
+.button2 {
+    background-color: #4CAF50;
+}
+
+.button3 {
+    border-radius: 50%;
+}
+
+.button4 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button5 {
+    opacity: 0.6;
+}
+
+.button6 {
+    font-size: 24px;
+}
